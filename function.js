@@ -9,6 +9,4 @@ let und = {
         }
     }
 }
-hzhz
-
 console.log(und.sayHi()());
